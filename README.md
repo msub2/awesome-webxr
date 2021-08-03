@@ -7,6 +7,13 @@ WebXR is a group of standards that allows browsers to access virtual and augment
 ## Contents
 - [Standout Examples](#standout-examples)
 - [Development](#development)
+  - [Frameworks](#frameworks)
+  - [Engines](#engines)
+  - [Other](#other)
+- [Learning Resources](#learning-resources)
+- [Avatars](#avatars)
+- [Social Spaces](#social-spaces)
+- [Communities](#communities)
 
 ## Standout Examples
 
@@ -17,7 +24,7 @@ WebXR is a group of standards that allows browsers to access virtual and augment
 
 ## Development
 
-*The frameworks and engines that make WebXR content possible.*
+*The tools that make WebXR content possible.*
 
 ### Frameworks
 
