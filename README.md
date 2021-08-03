@@ -1,4 +1,4 @@
-# awesome-webxr
+# Awesome WebXR
 
 ## Standout Examples
 
@@ -9,17 +9,19 @@
 
 ## Development
 
-While it may be young, there are countless different frameworks and engines available *right now* for content creation in WebXR.
+*A (hopefully) exhaustive list of all the frameworks and engines that are capable of producing WebXR content.*
 
 ### Frameworks
 
-#### A-Frame
+- [A-Frame](https://aframe.io/) - Lets you create VR experiences using declarative HTML and custom JavaScript components built on top of three.js.
+  - [Documentation](https://aframe.io/docs/)
 
-test
-
-#### babylon.js
+- [babylon.js](https://www.babylonjs.com/) - A powerful and feature-rich rendering engine packaged into a JavaScript framework.
+  - [Documentation](https://doc.babylonjs.com/)
 
 #### JanusWeb
+
+#### LÖVR
 
 #### p5.xr
 
@@ -29,7 +31,7 @@ test
 
 #### Godot
 
-#### LÖVR
+#### nunuStudio
 
 #### Playcanvas
 
@@ -38,6 +40,10 @@ test
 #### Unity
 
 #### Wonderland Engine
+
+### Other
+
+####
 
 ## Learning Resources
 
