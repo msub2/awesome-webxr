@@ -1,4 +1,12 @@
-# Awesome WebXR
+# Awesome WebXR [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of WebXR links and resources.
+
+WebXR is a group of standards that allows browsers to access virtual and augmented reality devices, enabling developers to create immersive content that's easily accessible  online, without the need for installations or storefront curation.
+
+## Contents
+- [Standout Examples](#standout-examples)
+- [Development](#development)
 
 ## Standout Examples
 
@@ -9,7 +17,7 @@
 
 ## Development
 
-*A (hopefully) exhaustive list of all the frameworks and engines that are capable of producing WebXR content.*
+*The frameworks and engines that make WebXR content possible.*
 
 ### Frameworks
 
