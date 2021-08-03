@@ -2,7 +2,7 @@
 
 > A curated list of WebXR links and resources.
 
-WebXR is a group of standards that allows browsers to access virtual and augmented reality devices, enabling developers to create immersive content that's easily accessible  online, without the need for installations or storefront curation.
+WebXR comprises a group of standards that allow browsers to access virtual and augmented reality devices, enabling developers to create immersive content that's easily accessible online, without the need for installations or storefront curation.
 
 ## Contents
 - [Standout Examples](#standout-examples)
@@ -29,14 +29,15 @@ WebXR is a group of standards that allows browsers to access virtual and augment
 ### Frameworks
 
 - [A-Frame](https://aframe.io/) - Lets you create VR experiences using declarative HTML and custom JavaScript components built on top of three.js.
-  - [Documentation](https://aframe.io/docs/)
+  - [Official Documentation](https://aframe.io/docs/)
 
 - [babylon.js](https://www.babylonjs.com/) - A powerful and feature-rich rendering engine packaged into a JavaScript framework.
-  - [Documentation](https://doc.babylonjs.com/)
+  - [Official Documentation](https://doc.babylonjs.com/)
 
-#### JanusWeb
+- [JanusWeb](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
 
-#### LÖVR
+- [LÖVR](https://lovr.org/) - A Lua-based framework that lets you create VR content across web and native platforms.
+  - [Official Documentation](https://lovr.org/docs/)
 
 #### p5.xr
 
