@@ -7,6 +7,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 ## Contents
 - [Standout Projects](#standout-projects)
 - [Art](#art)
+- [Audio](#audio)
 - [Avatars](#avatars)
 - [Communities](#communities)
 - [Development](#development)
