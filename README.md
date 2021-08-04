@@ -16,11 +16,11 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [Social Spaces](#social-spaces)
 - [Web3XR](#web3xr)
 
-## Standout Examples
+## Standout Projects
 
-- Hello WebXR
-- Moonrider
-- At least one danigatunes project
+- [Hello WebXR](https://mixedreality.mozilla.org/hello-webxr/) - Made to commemorate the release of the WebXR 1.0 API, showcases just a bit of what's possible with WebXR.
+- [Moonrider](https://moonrider.xyz/) - A rhymthm game built by Supermedium similar to Beat Saber.
+- [Dudes!](https://dudes.gatunes.com/) - A 3D voxel engine built by [Daniel Esteban](https://github.com/danielesteban) with three.js and C compiled to WASM. IT features WebXR support, physics, pathfinding, a VR sculpting mode with the ability to export, and more.
 - more to add
 
 ## Content Hubs
