@@ -122,6 +122,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [Webaverse](https://webaverse.com/) - An open-source virtual world powered by Ethereum with support for custom avatars focused on digital ownership, an open economy, and interoperability.
 - [vrland](https://vrland.io/) - A platform for gathering and virtual showcases that supports displaying of NFTs.
 - [3XR](https://www.3xr.space/) - A project by [microchipgnu](https://github.com/microchipgnu) that has integrated with Mintbase to create virtual galleries for NFT artwork.
+- [Somnium Space Web](https://somniumspace.com/parcel/) - A web viewer that allows you to explore parcels from [Somnium Space](https://www.somniumspace.com/) in your browser, with VR support on the Oculus Quest browser.
 
 ## Art
 - [VARTISTE](https://vartiste.xyz/) - A virtual reality app for 2D drawing and image editing, and 3D model texturing.
