@@ -84,12 +84,16 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 *Courses and tutorials for creating WebXR content.*
 
+- [Learn A-Frame (VR)](https://www.codecademy.com/learn/learn-a-frame) - A roughly 6-hour Codecademy course written in partnership with A-Frame.
+- [babylon.js Guided Learning](https://doc.babylonjs.com/guidedLearning) - Detailed text and video tutorials that complement the other instructional pages in the documentation.
+
 ## Avatars
 
 *Resources for creating and utilizing 3D avatars in immersive experiences.*
 
 - [VRoid](https://vroid.com/en) - Lets you create anime-styled 3D avatars that export to the highly-compatible .vrm format.
 - [ReadyPlayerMe](https://readyplayer.me/) - Lets you quickly and easily create a 3D avatar online that you can download in glTF format.
+- [Exokit Avatars](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more.
 
 ## Communities
 
