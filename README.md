@@ -21,7 +21,6 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [Hello WebXR](https://mixedreality.mozilla.org/hello-webxr/) - Made to commemorate the release of the WebXR 1.0 API, showcases just a bit of what's possible with WebXR.
 - [Moonrider](https://moonrider.xyz/) - A rhythm game built by Supermedium similar to Beat Saber.
 - [Dudes!](https://dudes.gatunes.com/) - A 3D voxel engine built by [Daniel Esteban](https://github.com/danielesteban) with three.js and C compiled to WASM. It features WebXR support, physics, pathfinding, a VR sculpting mode with the ability to export creations, and more.
-- [VARTISTE](https://vartiste.xyz/) - A virtual reality app for 2D drawing and image editing, and 3D model texturing.
 - more to add
 
 ## Content Hubs
@@ -98,9 +97,13 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 ## Communities
 
-*Where WebXR developers gather, discuss, share projects, etc.*
+*Where WebXR developers gather, ask questions, share projects, etc.*
 
 - [WebXR Discord](https://discord.gg/Jt5tfaM) - The official Discord server for all things WebXR, with over 1000 members.
+- [r/WebVR](https://www.reddit.com/r/WebVR/) - Initially the main subreddit for WebVR discussion, now features general WebXR content along with [r/WebXR](https://www.reddit.com/r/WebXR/).
+- [BabylonJS Forum](https://forum.babylonjs.com/)
+- [three.js Forum](https://discourse.threejs.org/)
+- [PlayCanvas Forum](https://forum.playcanvas.com/)
 
 ## Social Spaces
 
@@ -119,3 +122,8 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [Webaverse](https://webaverse.com/) - An open-source virtual world powered by Ethereum with support for custom avatars focused on digital ownership, an open economy, and interoperability.
 - [vrland](https://vrland.io/) - A platform for gathering and virtual showcases that supports displaying of NFTs.
 - [3XR](https://www.3xr.space/) - A project by [microchipgnu](https://github.com/microchipgnu) that has integrated with Mintbase to create virtual galleries for NFT artwork.
+
+## Art
+- [VARTISTE](https://vartiste.xyz/) - A virtual reality app for 2D drawing and image editing, and 3D model texturing.
+- [Brushwork VR](https://brushworkvr.com/) - A VR app that simulates the process of painting with a virtual canvas, palette, color mixing, and more.
+- [Silk Brush](https://www.silkbrush.app/) - A port of Tilt Brush to WebXR with plans for future extensions.
