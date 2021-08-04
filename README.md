@@ -66,7 +66,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 ## Content Hubs
 
-*Sites dedicated to gathering, indexing, or even publishing WebXR content.*
+*Sites dedicated to gathering, indexing, and publishing WebXR content.*
 
 - [2WSZ](https://2wsz.com/) - An aggregator for WebXR content featuring ratings, a recommendation system, and both English and Korean language support.
 - [Construct Arcade](https://constructarcade.com/) - A curated hub of WebXR games, with games from both outside developers and in-house developers at Vhite Rabbit.
@@ -113,6 +113,10 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 - [p5.xr](https://p5xr.org/) - An add-on for the library p5.js that allows you to create immersive p5 sketches.
 
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR](https://github.com/pmndrs/react-xr) as well.
+
+- [Spaces VR](https://github.com/spacesvr/spacesvr) - A front end framework for quickly creating VR websites built on react-three-fiber.
+
 - [three.js](https://threejs.org/) - A JavaScript library for rendering 3D content with WebGL that powers many existing WebXR experiences and tools.
   - [Official Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 
@@ -135,6 +139,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [Dreamwave](https://dreamwave.tech/) - A web-based platform for hosting scalable virtual events. Powered the virtual music festival [Secret Sky 2021](https://dreamwave.tech/secret-sky-2021).
 - [FRAME](https://framevr.io/) - A platform focused on enabling easy 3D collaborations in a virtual space.
 - [Hubs](https://hubs.mozilla.com/) - Mozilla's platform for enabling users to gather and collaborate virtually.
+- [Muse](https://www.muse.place/) - Provides a no-code way to build 3D websites that others can visit.
 - [Raspberry Dream Land](https://www.rdland.io/) - A multi-sensory WebXR events platform for facilitating an all-inclusive, safe, and explorative space for radical self-expression, progressive arts and entertainment, social interactions and virtual relationships.
 
 ## Web3XR
