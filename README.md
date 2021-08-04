@@ -19,14 +19,29 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 ## Standout Projects
 
+*Impressive and notable WebXR projects.*
+
 - [Hello WebXR](https://mixedreality.mozilla.org/hello-webxr/) - Made to commemorate the release of the WebXR 1.0 API, showcases just a bit of what's possible with WebXR.
 - [Moonrider](https://moonrider.xyz/) - A rhythm game built by Supermedium similar to Beat Saber.
-- [Dudes!](https://dudes.gatunes.com/) - A 3D voxel engine built by [Daniel Esteban](https://github.com/danielesteban) with three.js and C compiled to WASM. It features WebXR support, physics, pathfinding, a VR sculpting mode with the ability to export creations, and more.
+- [Dudes!](https://dudes.gatunes.com/) - A 3D voxel engine built by [Daniel Esteban](https://github.com/danielesteban) with three.js and C compiled to WASM. It features WebXR support, physics, pathfinding, a multiplayer-enabled VR sculpting mode with the ability to import/export creations, and more.
 
 ## Art
+
+*Projects centered around artistic creations.*
+
 - [Brushwork VR](https://brushworkvr.com/) - A VR app that simulates the process of painting with a virtual canvas, palette, color mixing, and more.
 - [Silk Brush](https://www.silkbrush.app/) - A port of Tilt Brush to WebXR with plans for future extensions.
 - [VARTISTE](https://vartiste.xyz/) - A virtual reality app for 2D drawing and image editing, and 3D model texturing.
+
+## Audio
+
+*Projects centered around audio and audiovisual experiences.*
+
+- [beats](https://beats.gatunes.com/) - A semi-collaborative app with various rooms where anyone can create or modify an existing musical loop.
+- [Cybr](https://cybrxr.com/) - Offers a platform for live immersive listening parties. The recorded portions of their first listening party are still available to view.
+- [Fathom VR](https://www.letsfathom.com/vr/play) - A WebXR version of the music discovery app Fathom, which lets you search for and explore clouds of related artists with spatialized audio.
+- [Helicon](https://www.helicon.live/) - An immersive introduction to polyrhythms.
+- [TRACK](https://demos.littleworkshop.fr/track) - A linear ride through an immersive audiovisual experience developed by [Little Workshop](https://www.littleworkshop.fr/).
 
 ## Avatars
 
