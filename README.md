@@ -15,7 +15,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [Content Hubs](#content-hubs)
 - [Development](#development)
   - [Engines](#engines)
-  - [Frameworks](#frameworks-and-libraries)
+  - [Frameworks and Libraries](#frameworks-and-libraries)
   - [Other](#other)
 - [Learning Resources](#learning-resources)
 - [Social Spaces](#social-spaces)
