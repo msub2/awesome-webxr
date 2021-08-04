@@ -146,7 +146,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 *Projects at the intersection of WebXR and crypto/blockchain technologies.*
 
-- [3XR](https://www.3xr.space/) - A project by [microchipgnu](https://github.com/microchipgnu) that has integrated with Mintbase to create virtual galleries for NFT artwork.
+- [3XR](https://www.3xr.space/) - A project by [microchipgnu](https://github.com/microchipgnu) that has integrated with Mintbase to create virtual galleries for NFT artwork on NEAR.
 - [Cryptovoxels](https://www.cryptovoxels.com/) - A virtual world powered by Ethereum where players can buy land, build stores, display art, and more.
 - [glry.xyz](https://glry.xyz/) - A site that hosts virtual galleries for NFT art on the Tezos blockchain.
 - [Somnium Space Web](https://somniumspace.com/parcel/) - A web viewer that allows you to explore parcels from [Somnium Space](https://www.somniumspace.com/) in your browser, with VR support on the Oculus Quest browser.
