@@ -101,9 +101,9 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 - [WebXR Discord](https://discord.gg/Jt5tfaM) - The official Discord server for all things WebXR, with over 1000 members.
 - [r/WebVR](https://www.reddit.com/r/WebVR/) - Initially the main subreddit for WebVR discussion, now features general WebXR content along with [r/WebXR](https://www.reddit.com/r/WebXR/).
-- [BabylonJS Forum](https://forum.babylonjs.com/)
-- [three.js Forum](https://discourse.threejs.org/)
-- [PlayCanvas Forum](https://forum.playcanvas.com/)
+- [BabylonJS Forum](https://forum.babylonjs.com/) - Official babylon.js forum.
+- [three.js Forum](https://discourse.threejs.org/) - Official three.js forum.
+- [PlayCanvas Forum](https://forum.playcanvas.com/) - Official PlayCanvas forum.
 
 ## Social Spaces
 
@@ -112,7 +112,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [Hubs](https://hubs.mozilla.com/) - Mozilla's platform for enabling users to gather and collaborate virtually.
 - [FRAME](https://framevr.io/) - A platform focused on enabling easy 3D collaborations in a virtual space.
 - [Raspberry Dream Land](https://www.rdland.io/) - A multi-sensory WebXR events platform for facilitating an all-inclusive, safe, and explorative space for radical self-expression, progressive arts and entertainment, social interactions and virtual relationships.
-- [Dreamwave](https://dreamwave.tech/) - A web=based platform for hosting scalable virtual events. Powered the virtual music festival [Secret Sky 2021](https://dreamwave.tech/secret-sky-2021).
+- [Dreamwave](https://dreamwave.tech/) - A web-based platform for hosting scalable virtual events. Powered the virtual music festival [Secret Sky 2021](https://dreamwave.tech/secret-sky-2021).
 
 ## Web3XR
 
