@@ -12,8 +12,9 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
   - [Other](#other)
 - [Learning Resources](#learning-resources)
 - [Avatars](#avatars)
-- [Social Spaces](#social-spaces)
 - [Communities](#communities)
+- [Social Spaces](#social-spaces)
+- [Web3XR](#web3xr)
 
 ## Standout Examples
 
@@ -26,10 +27,10 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 *Sites dedicated to gathering, indexing, or even publishing WebXR content.*
 
-- Construct Arcade
-- 2WSZ
-- XRSites?
-- xrswim
+- [Construct Arcade](https://constructarcade.com/) - A curated hub of WebXR games, with games from both outside developers and in-house developers at Vhite Rabbit.
+- [2WSZ](https://2wsz.com/) - An aggregator for WebXR content featuring ratings, a recommendation system, and both English and Korean language support.
+- [XRSites](https://xrsites.com/) - An aggregator for WebXR games and experiences.
+- [XR Swim](https://xrswim.com/) - An aggregator site for both WebXR and Web3 content.
 
 ## Development
 
@@ -86,6 +87,10 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 ## Avatars
 
 *Resources for creating and utilizing 3D avatars in immersive experiences.*
+
+- VRoid
+- ReadyPlayerMe
+- Exokit
 
 ## Communities
 
