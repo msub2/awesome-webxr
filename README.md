@@ -97,10 +97,10 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 *Projects focused on social spaces for users to gather and/or collaborate in.*
 
-- Hubs
-- FRAME
-- Raspberry Dream Land
-- Dreamwave
+- [Hubs](https://hubs.mozilla.com/) - Mozilla's platform for enabling users to gather and collaborate virtually.
+- [FRAME](https://framevr.io/) - A platform focused on enabling easy 3D collaborations in a virtual space.
+- [Raspberry Dream Land](https://www.rdland.io/) - A multi-sensory WebXR events platform for facilitating an all-inclusive, safe, and explorative space for radical self-expression, progressive arts and entertainment, social interactions and virtual relationships.
+- [Dreamwave](https://dreamwave.tech/) - A web=based platform for hosting scalable virtual events. Powered the virtual music festival [Secret Sky 2021](https://dreamwave.tech/secret-sky-2021).
 
 ## Web3XR
 
