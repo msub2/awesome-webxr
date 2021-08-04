@@ -111,7 +111,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 *Projects at the intersection of WebXR and crypto/blockchain technologies.*
 
-- [Cryptovoxels](https://www.cryptovoxels.com/)
-- [Webaverse](https://webaverse.com/)
-- [vrland](https://vrland.io/)
-- [3XR](https://www.3xr.space/)
+- [Cryptovoxels](https://www.cryptovoxels.com/) - A virtual world powered by Ethereum where players can buy land, build stores, display art, and more.
+- [Webaverse](https://webaverse.com/) - An open-source virtual world powered by Ethereum with support for custom avatars focused on digital ownership, an open economy, and interoperability.
+- [vrland](https://vrland.io/) - A platform for gathering and virtual showcases that supports displaying of NFTs.
+- [3XR](https://www.3xr.space/) - A project by [microchipgnu](https://github.com/microchipgnu) that has integrated with Mintbase to create virtual galleries for NFT artwork.
