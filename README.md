@@ -7,7 +7,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 ## Contents
 - [Standout Examples](#standout-examples)
 - [Development](#development)
-  - [Frameworks](#frameworks)
+  - [Frameworks](#frameworks-and-libraries)
   - [Engines](#engines)
   - [Other](#other)
 - [Learning Resources](#learning-resources)
@@ -26,7 +26,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 *The tools that make WebXR content possible.*
 
-### Frameworks
+### Frameworks and Libraries
 
 - [A-Frame](https://aframe.io/) - Lets you create VR experiences using declarative HTML and custom JavaScript components built on top of three.js.
   - [Official Documentation](https://aframe.io/docs/)
@@ -39,9 +39,10 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [LÖVR](https://lovr.org/) - A Lua-based framework that lets you create VR content across web and native platforms.
   - [Official Documentation](https://lovr.org/docs/)
 
-#### p5.xr
+- [p5.xr](https://p5xr.org/) - An add-on for the library p5.js that allows you to create immersive p5 sketches.
 
-#### three.js
+- [three.js](https://threejs.org/) - A JavaScript library for rendering 3D content with WebGL that powers many existing WebXR experiences and tools.
+  [Official Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 
 ### Engines
 
@@ -59,7 +60,8 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 ### Other
 
-####
+- [Verge3D](https://www.soft8soft.com/verge3d/) - A toolkit that allows 3D artists to export their scenes and create immersive web experiences.
+  - [Official Documentation](https://www.soft8soft.com/support-documentation/)
 
 ## Learning Resources
 
