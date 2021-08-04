@@ -88,9 +88,8 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 *Resources for creating and utilizing 3D avatars in immersive experiences.*
 
-- VRoid
-- ReadyPlayerMe
-- Exokit
+- [VRoid](https://vroid.com/en) - Lets you create anime-styled 3D avatars that export to the highly-compatible .vrm format.
+- [ReadyPlayerMe](https://readyplayer.me/) - Lets you quickly and easily create a 3D avatar online that you can download in glTF format.
 
 ## Communities
 
