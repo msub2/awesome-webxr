@@ -134,7 +134,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 ## Social Spaces
 
-*Projects focused on social spaces for users to gather and/or collaborate in.*
+*Projects focused on creating social spaces for users to gather and/or collaborate in.*
 
 - [Dreamwave](https://dreamwave.tech/) - A web-based platform for hosting scalable virtual events. Powered the virtual music festival [Secret Sky 2021](https://dreamwave.tech/secret-sky-2021).
 - [FRAME](https://framevr.io/) - A platform focused on enabling easy 3D collaborations in a virtual space.
