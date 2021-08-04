@@ -12,6 +12,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [Audio](#audio)
 - [Avatars](#avatars)
 - [Communities](#communities)
+- [Content Hubs](#content-hubs)
 - [Development](#development)
   - [Engines](#engines)
   - [Frameworks](#frameworks-and-libraries)
@@ -92,8 +93,8 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
   - [Official Documentation](https://docs.aws.amazon.com/sumerian/)
 
 - [Unity](https://unity.com/) - A highly popular game engine with community packages that enable content to be exported for WebXR.
-  - [WebXR Export](https://github.com/De-Panther/unity-webxr-export) by [De-Panther](https://github.com/De-Panther/)
-  - [SimpleWebXR](https://github.com/Rufus31415/Simple-WebXR-Unity) by [Rufus31415](https://github.com/Rufus31415)
+  - [WebXR Export](https://github.com/De-Panther/unity-webxr-export) - Exporter by [De-Panther](https://github.com/De-Panther/)
+  - [SimpleWebXR](https://github.com/Rufus31415/Simple-WebXR-Unity) - Exporter by [Rufus31415](https://github.com/Rufus31415)
 
 - [Wonderland Engine](https://wonderlandengine.com/) - A cross-platform engine dedicated to producing WebXR content utilizing a WebAssembly runtime.
   - [Official Documentation](https://wonderlandengine.com/documentation/)
