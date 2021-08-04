@@ -42,21 +42,28 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [p5.xr](https://p5xr.org/) - An add-on for the library p5.js that allows you to create immersive p5 sketches.
 
 - [three.js](https://threejs.org/) - A JavaScript library for rendering 3D content with WebGL that powers many existing WebXR experiences and tools.
-  [Official Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
+  - [Official Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 
 ### Engines
 
-#### Godot
+- [Godot](https://godotengine.org/) - A cross-platform, open-source engine with WebXR support as of version 3.2.4.
+  - [Official Documentation](https://docs.godotengine.org/en/stable/classes/class_webxrinterface.html)
 
-#### nunuStudio
+- [nunuStudio](https://www.nunustudio.org/) - A multiplatform, open-source engine built on three.js that can be used natively or in the browser.
+  - [Official Documentation](https://www.nunustudio.org/docs/)
 
-#### Playcanvas
+- [PlayCanvas](https://playcanvas.com/) - A browser-based WebGL engine with support for WebXR content, mobile browsers, collaborative editing, and more.
+  - [Official Documentation](https://developer.playcanvas.com/en/)
 
-#### Sumerian
+- [Sumerian](https://aws.amazon.com/sumerian/) - Amazon's browser-based engine that allows for easy creation of WebXR content and integration with AWS services.
+  - [Official Documentation](https://docs.aws.amazon.com/sumerian/)
 
-#### Unity
+- [Unity](https://unity.com/) - A highly popular game engine with community packages that enable content to be exported for WebXR.
+  - [WebXR Export](https://github.com/De-Panther/unity-webxr-export) by [De-Panther](https://github.com/De-Panther/)
+  - [SimpleWebXR](https://github.com/Rufus31415/Simple-WebXR-Unity) by [Rufus31415](https://github.com/Rufus31415)
 
-#### Wonderland Engine
+- [Wonderland Engine](https://wonderlandengine.com/) - A cross-platform engine dedicated to producing WebXR content utilizing WebAssembly.
+  - [Official Documentation](https://wonderlandengine.com/documentation/)
 
 ### Other
 
