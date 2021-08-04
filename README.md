@@ -19,8 +19,17 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 - Hello WebXR
 - Moonrider
-- Somnium Sky
+- At least one danigatunes project
 - more to add
+
+## Content Hubs
+
+*Sites dedicated to gathering, indexing, or even publishing WebXR content.*
+
+- Construct Arcade
+- 2WSZ
+- XRSites?
+- xrswim
 
 ## Development
 
@@ -76,6 +85,8 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 ## Avatars
 
+*Resources for creating and utilizing 3D avatars in immersive experiences.*
+
 ## Communities
 
 *Where WebXR developers gather, discuss, share projects, etc.*
@@ -84,10 +95,18 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 ## Social Spaces
 
+*Projects focused on social spaces for users to gather and/or collaborate in.*
+
+- Hubs
+- FRAME
+- Raspberry Dream Land
+- Dreamwave
+
 ## Web3XR
 
 *Projects at the intersection of WebXR and crypto/blockchain technologies.*
 
 - [Cryptovoxels](https://www.cryptovoxels.com/)
 - [Webaverse](https://webaverse.com/)
+- [vrland](https://vrland.io/)
 - [3XR](https://www.3xr.space/)
