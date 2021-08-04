@@ -62,18 +62,32 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
   - [WebXR Export](https://github.com/De-Panther/unity-webxr-export) by [De-Panther](https://github.com/De-Panther/)
   - [SimpleWebXR](https://github.com/Rufus31415/Simple-WebXR-Unity) by [Rufus31415](https://github.com/Rufus31415)
 
-- [Wonderland Engine](https://wonderlandengine.com/) - A cross-platform engine dedicated to producing WebXR content utilizing WebAssembly.
+- [Wonderland Engine](https://wonderlandengine.com/) - A cross-platform engine dedicated to producing WebXR content utilizing a WebAssembly runtime.
   - [Official Documentation](https://wonderlandengine.com/documentation/)
 
 ### Other
 
-- [Verge3D](https://www.soft8soft.com/verge3d/) - A toolkit that allows 3D artists to export their scenes and create immersive web experiences.
+- [Verge3D](https://www.soft8soft.com/verge3d/) - A toolkit that allows 3D artists to export their scenes and create immersive web experiences with ease.
   - [Official Documentation](https://www.soft8soft.com/support-documentation/)
 
 ## Learning Resources
+
+*Courses and tutorials for creating WebXR content.*
 
 ## Avatars
 
 ## Communities
 
+*Where WebXR developers gather, discuss, share projects, etc.*
+
+- [WebXR Discord](https://discord.gg/Jt5tfaM) - The official Discord server for all things WebXR, with over 1000 members.
+
 ## Social Spaces
+
+## Web3XR
+
+*Projects at the intersection of WebXR and crypto/blockchain technologies.*
+
+- [Cryptovoxels](https://www.cryptovoxels.com/)
+- [Webaverse](https://webaverse.com/)
+- [3XR](https://www.3xr.space/)
