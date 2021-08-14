@@ -64,6 +64,8 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [three.js Forum](https://discourse.threejs.org/) - Official three.js forum.
 - [PlayCanvas Forum](https://forum.playcanvas.com/) - Official PlayCanvas forum.
 - [r/WebVR](https://www.reddit.com/r/WebVR/) - Initially the main subreddit for WebVR discussion, now features general WebXR content along with [r/WebXR](https://www.reddit.com/r/WebXR/).
+- [Wonderland Engine Discord](https://discord.gg/FE8QnDP) - Wonderland Engine Discord server.
+- [r/WonderlandEngine](https://www.reddit.com/r/WonderlandEngine/) - Wonderland Engine subreddit.
 
 ## Content Hubs
 
@@ -96,7 +98,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
   - [WebXR Export](https://github.com/De-Panther/unity-webxr-export) - Exporter by [De-Panther](https://github.com/De-Panther/)
   - [SimpleWebXR](https://github.com/Rufus31415/Simple-WebXR-Unity) - Exporter by [Rufus31415](https://github.com/Rufus31415)
 
-- [Wonderland Engine](https://wonderlandengine.com/) - A cross-platform engine dedicated to producing WebXR content utilizing a WebAssembly runtime.
+- [Wonderland Engine](https://wonderlandengine.com/) - A development platform designed specifically for building WebXR applications.
   - [Official Documentation](https://wonderlandengine.com/documentation/)
 
 ### Frameworks and Libraries
