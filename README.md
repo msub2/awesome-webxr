@@ -12,11 +12,13 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [Audio](#audio)
 - [Avatars](#avatars)
 - [Communities](#communities)
+- [Companies](#companies)
 - [Content Hubs](#content-hubs)
 - [Development](#development)
   - [Engines](#engines)
   - [Frameworks and Libraries](#frameworks-and-libraries)
   - [Other](#other)
+- [E-Commerce](#e-commerce)
 - [Learning Resources](#learning-resources)
 - [Social Spaces](#social-spaces)
 - [Web3XR](#web3xr)
@@ -66,6 +68,12 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [r/WebVR](https://www.reddit.com/r/WebVR/) - Initially the main subreddit for WebVR discussion, now features general WebXR content along with [r/WebXR](https://www.reddit.com/r/WebXR/).
 - [Wonderland Engine Discord](https://discord.gg/FE8QnDP) - Wonderland Engine Discord server.
 - [r/WonderlandEngine](https://www.reddit.com/r/WonderlandEngine/) - Wonderland Engine subreddit.
+
+## Companies
+
+*Companies working in WebXR.*
+
+-[Vhite Rabbit](https://vhiterabbit.com/)
 
 ## Content Hubs
 
@@ -127,6 +135,13 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 - [Verge3D](https://www.soft8soft.com/verge3d/) - A toolkit that allows 3D artists to export their scenes and create immersive web experiences with ease.
   - [Official Documentation](https://www.soft8soft.com/support-documentation/)
+
+## E-Commerce
+
+*WebXR E-Commerce platforms.*
+
+- [Ozone Universe](https://ozoneuniverse.com/)
+- [VR Cybershop](https://vrshop.rebuffreality.com/) - Virtual storefront for Rebuff Reality.
 
 ## Learning Resources
 
