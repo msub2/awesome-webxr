@@ -156,6 +156,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 *Projects focused on creating social spaces for users to gather and/or collaborate in.*
 
 - [Dreamwave](https://dreamwave.tech/) - A web-based platform for hosting scalable virtual events. Powered the virtual music festival [Secret Sky 2021](https://dreamwave.tech/secret-sky-2021).
+- [Emerald City](https://hubculture.city/) - A virtual event space developed by Hub Culture.
 - [FRAME](https://framevr.io/) - A platform focused on enabling easy 3D collaborations in a virtual space.
 - [Hubs](https://hubs.mozilla.com/) - Mozilla's platform for enabling users to gather and collaborate virtually.
 - [Muse](https://www.muse.place/) - Provides a no-code way to build 3D websites that others can visit.
