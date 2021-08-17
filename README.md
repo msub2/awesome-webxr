@@ -73,6 +73,8 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 *Companies working in WebXR.*
 
+- [Active Replica](https://www.activereplica.com/)
+- [Active Theory](https://activetheory.net/) - Developed Dreamwave
 - [Laguna Labs](https://lagunalabs.io/)
 - [REM5](https://www.rem5forgood.com/)
 - [Vhite Rabbit](https://vhiterabbit.com/)
