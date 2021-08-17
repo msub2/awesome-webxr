@@ -71,12 +71,13 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 ## Companies
 
-*Companies working in WebXR.*
+*Companies centered around/doing work in WebXR.*
 
 - [Active Replica](https://www.activereplica.com/)
 - [Active Theory](https://activetheory.net/) - Developed Dreamwave
 - [Laguna Labs](https://lagunalabs.io/)
 - [REM5](https://www.rem5forgood.com/)
+- [Sketchfab](https://sketchfab.com/) - 3D model marketplace that offers a VR previewer.
 - [Vhite Rabbit](https://vhiterabbit.com/)
 
 ## Content Hubs
