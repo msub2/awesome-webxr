@@ -73,7 +73,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 *Companies working in WebXR.*
 
--[Vhite Rabbit](https://vhiterabbit.com/)
+- [Vhite Rabbit](https://vhiterabbit.com/)
 
 ## Content Hubs
 
