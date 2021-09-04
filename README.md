@@ -74,12 +74,12 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 *Companies centered around/doing work in WebXR.*
 
-- [Active Replica](https://www.activereplica.com/)
-- [Active Theory](https://activetheory.net/) - Developed Dreamwave
-- [Laguna Labs](https://lagunalabs.io/)
-- [REM5](https://www.rem5forgood.com/)
+- [Active Replica](https://www.activereplica.com/) - Offers virtual event hosting through Mozilla Hubs.
+- [Active Theory](https://activetheory.net/) - Developed the Dreamwave platform.
+- [Laguna Labs](https://lagunalabs.io/) - Immersive web tech agency.
+- [REM5](https://www.rem5forgood.com/) - Digital immersive experience design studio spercializing in education and social equity initiatives.
 - [Sketchfab](https://sketchfab.com/) - 3D model marketplace that offers a VR previewer.
-- [Vhite Rabbit](https://vhiterabbit.com/)
+- [Vhite Rabbit](https://vhiterabbit.com/) - Parent company responsible for Construct Arcade and Wonderland Engine.
 
 ## Content Hubs
 
@@ -146,7 +146,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 *WebXR E-Commerce platforms.*
 
-- [Ozone Universe](https://ozoneuniverse.com/)
+- [Ozone Universe](https://ozoneuniverse.com/) - Virtual enterprise platform for meetings, marketing, and e-commerce.
 - [VR Cybershop](https://vrshop.rebuffreality.com/) - Virtual storefront for Rebuff Reality.
 
 ## Learning Resources
