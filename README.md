@@ -22,6 +22,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [Learning Resources](#learning-resources)
 - [Social Spaces](#social-spaces)
 - [Web3XR](#web3xr)
+- [YouTube](#youtube)
 
 ## Standout Projects
 
@@ -177,3 +178,11 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [Somnium Space Web](https://somniumspace.com/parcel/) - A web viewer that allows you to explore parcels from [Somnium Space](https://www.somniumspace.com/) in your browser, with VR support on the Oculus Quest browser.
 - [vrland](https://vrland.io/) - A platform for gathering and virtual showcases that supports displaying of NFTs.
 - [Webaverse](https://webaverse.com/) - An open-source virtual world powered by Ethereum with support for custom avatars focused on digital ownership, an open economy, and interoperability.
+
+## YouTube
+
+*YouTube channels with a heavy focus on WebXR.*
+
+- [WebXR](https://www.youtube.com/c/WebXR) - Official WebXR channel.
+- [WebXR Summit Series](https://www.youtube.com/channel/UCM5HgDdpKgMejq5HX9EoGHg) - Contains clips, VODs, and other videos from the WebXR Summit Series.
+- [Wonderland Engine](https://www.youtube.com/channel/UCgaPCwqmAmre7mW0J7K8IkA) - Official Wonderland Engine channel.
