@@ -166,7 +166,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [FRAME](https://framevr.io/) - A platform focused on enabling easy 3D collaborations in a virtual space.
 - [Hubs](https://hubs.mozilla.com/) - Mozilla's platform for enabling users to gather and collaborate virtually.
 - [Muse](https://www.muse.place/) - Provides a no-code way to build 3D websites that others can visit.
-- [Raspberry Dream Land](https://www.rdland.io/) - A multi-sensory WebXR events platform for facilitating an all-inclusive, safe, and explorative space for radical self-expression, progressive arts and entertainment, social interactions and virtual relationships.
+- [Raspberry Dream Land](https://www.rdland.io/) - A progressive WebXR events platform focused on inclusivity, radical self-expression, and virtual relationships.
 
 ## Web3XR
 
