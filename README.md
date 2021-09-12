@@ -28,7 +28,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 *Impressive and notable WebXR projects.*
 
-- [Hello WebXR](https://mixedreality.mozilla.org/hello-webxr/) - Made to commemorate the release of the WebXR 1.0 API, showcases just a bit of what's possible with WebXR.
+- [Hello WebXR](https://mixedreality.mozilla.org/hello-webxr/) - Made to commemorate the release of the WebXR 1.0 API, showcases some of what's possible with WebXR.
 - [Moonrider](https://moonrider.xyz/) - A rhythm game built by Supermedium similar to Beat Saber.
 - [Dudes!](https://dudes.gatunes.com/) - A 3D voxel engine built by [Daniel Esteban](https://github.com/danielesteban) with three.js and C compiled to WASM. It features WebXR support, physics, pathfinding, a multiplayer-enabled VR sculpting mode with the ability to import/export creations, and more.
 
@@ -165,7 +165,6 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [Emerald City](https://hubculture.city/) - A virtual event space developed by Hub Culture.
 - [FRAME](https://framevr.io/) - A platform focused on enabling easy 3D collaborations in a virtual space.
 - [Hubs](https://hubs.mozilla.com/) - Mozilla's platform for enabling users to gather and collaborate virtually.
-- [Muse](https://www.muse.place/) - Provides a no-code way to build 3D websites that others can visit.
 - [Raspberry Dream Land](https://www.rdland.io/) - A progressive WebXR events platform focused on inclusivity, radical self-expression, and virtual relationships.
 
 ## Web3XR
