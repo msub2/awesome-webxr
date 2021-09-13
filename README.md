@@ -12,6 +12,10 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [Audio](#audio)
 - [Avatars](#avatars)
 - [Communities](#communities)
+  - [Discord](#discord)
+  - [Facebook](#facebook)
+  - [Forums](#forums)
+  - [Reddit](#reddit)
 - [Companies](#companies)
 - [Content Hubs](#content-hubs)
 - [Development](#development)
@@ -63,12 +67,27 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 *Where WebXR developers gather, ask questions, share projects, etc.*
 
+### Discord
+
 - [WebXR Discord](https://discord.gg/Jt5tfaM) - The official Discord server for all things WebXR, with over 1000 members.
-- [BabylonJS Forum](https://forum.babylonjs.com/) - Official babylon.js forum.
+- [Wonderland Engine Discord](https://discord.gg/FE8QnDP) - Wonderland Engine Discord server.
+
+### Facebook
+
+- [Immersive Web](https://www.facebook.com/groups/immersiveweb/) - Oldest WebXR-related group, originally made for WebVR.
+- [WebXR](https://www.facebook.com/groups/arvrweb/) - Slightly newer WebXR-centric group.
+- [WebXR Korea](https://www.facebook.com/groups/webxrko/)
+- [WebXR Paris](https://www.facebook.com/groups/548527285323630/)
+
+### Forums
+
+- [Babylon.js Forum](https://forum.babylonjs.com/) - Official Babylon.js forum.
 - [three.js Forum](https://discourse.threejs.org/) - Official three.js forum.
 - [PlayCanvas Forum](https://forum.playcanvas.com/) - Official PlayCanvas forum.
+
+### Reddit
+
 - [r/WebVR](https://www.reddit.com/r/WebVR/) - Initially the main subreddit for WebVR discussion, now features general WebXR content along with [r/WebXR](https://www.reddit.com/r/WebXR/).
-- [Wonderland Engine Discord](https://discord.gg/FE8QnDP) - Wonderland Engine Discord server.
 - [r/WonderlandEngine](https://www.reddit.com/r/WonderlandEngine/) - Wonderland Engine subreddit.
 
 ## Companies
@@ -121,7 +140,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [A-Frame](https://aframe.io/) - Lets you create VR experiences using declarative HTML and custom JavaScript components built on top of three.js.
   - [Official Documentation](https://aframe.io/docs/)
 
-- [babylon.js](https://www.babylonjs.com/) - A powerful and feature-rich rendering engine packaged into a JavaScript framework.
+- [Babylon.js](https://www.babylonjs.com/) - A powerful and feature-rich rendering engine packaged into a JavaScript framework.
   - [Official Documentation](https://doc.babylonjs.com/)
 
 - [JanusWeb](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
