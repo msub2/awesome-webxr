@@ -34,7 +34,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 - [Hello WebXR](https://mixedreality.mozilla.org/hello-webxr/) - Made to commemorate the release of the WebXR 1.0 API, showcases some of what's possible with WebXR.
 - [Moonrider](https://moonrider.xyz/) - A rhythm game built by Supermedium similar to Beat Saber.
-- [Dudes!](https://dudes.gatunes.com/) - A 3D voxel engine built by [Daniel Esteban](https://github.com/danielesteban) with three.js and C compiled to WASM. It features WebXR support, physics, pathfinding, a multiplayer-enabled VR sculpting mode with the ability to import/export creations, and more.
+- [Dudes!](https://dudes.gatunes.com/) - A 3D voxel engine built by [Daniel Esteban](https://github.com/danielesteban). Features WebXR support, physics, pathfinding, a multiplayer-enabled VR sculpting mode, and more.
 
 ## Art
 
@@ -125,7 +125,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [PlayCanvas](https://playcanvas.com/) - A browser-based WebGL engine with support for WebXR content, mobile browsers, collaborative editing, and more.
   - [Official Documentation](https://developer.playcanvas.com/en/)
 
-- [Sumerian](https://aws.amazon.com/sumerian/) - Amazon's browser-based engine that allows for easy creation of WebXR content and integration with AWS services.
+- [Sumerian](https://aws.amazon.com/sumerian/) - Amazon's browser-based engine that allows for creation of WebXR content and integration with AWS services.
   - [Official Documentation](https://docs.aws.amazon.com/sumerian/)
 
 - [Unity](https://unity.com/) - A highly popular game engine with community packages that enable content to be exported for WebXR.
@@ -196,7 +196,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [RareRooms](https://www.rarerooms.io/) - Allows you to create immersive NFT galleries with support for multiple different chains/marketplaces.
 - [Somnium Space Web](https://somniumspace.com/parcel/) - A web viewer that allows you to explore parcels from [Somnium Space](https://www.somniumspace.com/) in your browser, with VR support on the Oculus Quest browser.
 - [vrland](https://vrland.io/) - A platform for gathering and virtual showcases that supports displaying of NFTs.
-- [Webaverse](https://webaverse.com/) - An open-source virtual world powered by Ethereum with support for custom avatars focused on digital ownership, an open economy, and interoperability.
+- [Webaverse](https://webaverse.com/) - An open-source virtual world powered by Ethereum with support for custom avatars. Focused on digital ownership, an open economy, and interoperability.
 
 ## YouTube
 
