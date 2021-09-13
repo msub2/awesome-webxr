@@ -43,7 +43,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [Brushwork VR](https://brushworkvr.com/) - A VR app that simulates the process of painting with a virtual canvas, palette, color mixing, and more.
 - [Hatsumi](https://www.hatsumivr.com/) - A VR app that provides you with 3D drawing tools and a virtual body to illustrate lived experiences.
 - [Silk Brush](https://www.silkbrush.app/) - A port of Tilt Brush to WebXR with plans for future extensions.
-- [VARTISTE](https://vartiste.xyz/) - A virtual reality app for 2D drawing and image editing, and 3D model texturing.
+- [VARTISTE](https://vartiste.xyz/) - A VR app for 2D drawing and image editing, and 3D model texturing.
 
 ## Audio
 
@@ -69,7 +69,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 ### Discord
 
-- [WebXR Discord](https://discord.gg/Jt5tfaM) - The official Discord server for all things WebXR, with over 1000 members.
+- [WebXR Discord](https://discord.gg/Jt5tfaM) - Official Discord server for all things WebXR, with over 1000 members.
 - [Wonderland Engine Discord](https://discord.gg/FE8QnDP) - Wonderland Engine Discord server.
 
 ### Facebook
@@ -193,7 +193,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [3XR](https://www.3xr.space/) - A project by [microchipgnu](https://github.com/microchipgnu) that has integrated with Mintbase to create virtual galleries for NFT artwork on NEAR.
 - [Cryptovoxels](https://www.cryptovoxels.com/) - A virtual world powered by Ethereum where players can buy land, build stores, display art, and more.
 - [glry.xyz](https://glry.xyz/) - A site that hosts virtual galleries for NFT art on the Tezos blockchain.
-- [RareRooms](https://www.rarerooms.io/) - Allows you to create 3D NFT galleries with support for multiple different chains/marketplaces.
+- [RareRooms](https://www.rarerooms.io/) - Allows you to create immersive NFT galleries with support for multiple different chains/marketplaces.
 - [Somnium Space Web](https://somniumspace.com/parcel/) - A web viewer that allows you to explore parcels from [Somnium Space](https://www.somniumspace.com/) in your browser, with VR support on the Oculus Quest browser.
 - [vrland](https://vrland.io/) - A platform for gathering and virtual showcases that supports displaying of NFTs.
 - [Webaverse](https://webaverse.com/) - An open-source virtual world powered by Ethereum with support for custom avatars focused on digital ownership, an open economy, and interoperability.
