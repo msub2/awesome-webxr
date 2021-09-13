@@ -76,8 +76,8 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 - [Immersive Web](https://www.facebook.com/groups/immersiveweb/) - Oldest WebXR-related group, originally made for WebVR.
 - [WebXR](https://www.facebook.com/groups/arvrweb/) - Slightly newer WebXR-centric group.
-- [WebXR Korea](https://www.facebook.com/groups/webxrko/)
-- [WebXR Paris](https://www.facebook.com/groups/548527285323630/)
+- [WebXR Korea](https://www.facebook.com/groups/webxrko/) - Korean WebXR group created by Belivvr.
+- [WebXR Paris](https://www.facebook.com/groups/548527285323630/) - Companion to the WebXR Paris group on [Meetup](https://www.meetup.com/WebXR-Paris/).
 
 ### Forums
 
