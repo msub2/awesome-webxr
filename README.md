@@ -97,9 +97,10 @@
 - [Active Replica](https://www.activereplica.com/) - Offers virtual event hosting through Mozilla Hubs.
 - [Active Theory](https://activetheory.net/) - Developed the Dreamwave platform.
 - [Laguna Labs](https://lagunalabs.io/) - Immersive web tech agency.
+- [Playko Software](https://www.playko.com/) - VR/AR/WebXR agency and WebXR game development studio.
 - [REM5](https://www.rem5forgood.com/) - Digital immersive experience design studio specializing in education and social equity initiatives.
 - [Sketchfab](https://sketchfab.com/) - 3D model marketplace that offers a VR previewer.
-- [Vhite Rabbit](https://vhiterabbit.com/) - Parent company responsible for Construct Arcade and Wonderland Engine.
+- [Vhite Rabbit](https://vhiterabbit.com/) - Parent company behind Construct Arcade.
 
 ## Content Hubs
 
