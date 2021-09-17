@@ -4,7 +4,7 @@
 
 > A curated list of WebXR links and resources.
 
-[WebXR](https://immersiveweb.dev/) comprises a group of standards that allow browsers to access virtual and augmented reality devices, enabling developers to create immersive content that's easily accessible online without the need for installations or storefront curation.
+[WebXR](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API) comprises a group of standards that allow browsers to access virtual and augmented reality devices, enabling developers to create immersive content that's easily accessible online without the need for installations or storefront curation.
 
 ## Contents
 - [Standout Projects](#standout-projects)
