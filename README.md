@@ -69,6 +69,7 @@
 
 ### Discord
 
+- [Metaverse Makers](https://discord.gg/UgZDFZW) - Official server for M3, the Metaverse Makers Mastermind group.
 - [WebXR Discord](https://discord.gg/Jt5tfaM) - Official Discord server for all things WebXR, with over 1000 members.
 - [Wonderland Engine Discord](https://discord.gg/FE8QnDP) - Wonderland Engine Discord server.
 
@@ -203,6 +204,7 @@
 
 *YouTube channels with a heavy focus on WebXR.*
 
+- [M3](https://www.youtube.com/channel/UCSNCMWhEojiVjUySdI7J_wg) - Official M3 channel.
 - [WebXR](https://www.youtube.com/c/WebXR) - Official WebXR channel.
 - [WebXR Summit Series](https://www.youtube.com/channel/UCM5HgDdpKgMejq5HX9EoGHg) - Contains clips, VODs, and other videos from the WebXR Summit Series.
 - [Wonderland Engine](https://www.youtube.com/channel/UCgaPCwqmAmre7mW0J7K8IkA) - Official Wonderland Engine channel.
