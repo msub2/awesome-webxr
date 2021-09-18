@@ -27,7 +27,7 @@
 - [Social Spaces](#social-spaces)
 - [Web3XR](#web3xr)
   - [Galleries](#galleries)
-  - [Social Spaces](#social-spaces)
+  - [Realms](#realms)
 - [YouTube](#youtube)
 
 ## Standout Projects
@@ -201,7 +201,7 @@
 - [oncyber](https://oncyber.io/) - Offers both free and collectible gallery spaces to display NFTs across multiple different chains.
 - [RareRooms](https://www.rarerooms.io/) - Allows you to create immersive NFT galleries with support for multiple different chains/marketplaces.
 
-### Social Spaces
+### Realms
 
 - [Cryptovoxels](https://www.cryptovoxels.com/) - A virtual world powered by Ethereum where players can buy land, build stores, display art, and more.
 - [Somnium Space Web](https://somniumspace.com/parcel/) - A web viewer that allows you to explore parcels from [Somnium Space](https://www.somniumspace.com/) in your browser, with VR support on the Oculus Quest browser.
