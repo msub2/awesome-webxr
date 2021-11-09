@@ -76,7 +76,7 @@
 - [WebXR Discord](https://discord.gg/Jt5tfaM) - Official Discord server for all things WebXR, with over 1000 members.
 - [Wonderland Engine Discord](https://discord.gg/FE8QnDP) - Wonderland Engine Discord server.
 - [XR Foundation Discord](https://discord.gg/Tb4MT4TTjH) - Official server for XR Foundation, responsible for XREngine and various other metaverse-related projects.
-- [Zesty Market](https://discord.gg/7d7agTbmKf) - Official server for Zesty Market. As of Nov 9, 2021, has generated over $3K for WebXR developers since July 2021.
+- [Zesty Market Discord](https://discord.gg/7d7agTbmKf) - Official server for Zesty Market.
 
 ### Facebook
 
