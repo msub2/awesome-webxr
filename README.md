@@ -27,6 +27,7 @@
 - [Social Spaces](#social-spaces)
 - [Web3XR](#web3xr)
   - [Galleries](#galleries)
+  - [Monetization](#monetization)
   - [Realms](#realms)
 - [YouTube](#youtube)
 
@@ -200,16 +201,16 @@
 
 *Projects at the intersection of WebXR and crypto/blockchain technologies.*
 
-### Monetization
-
-- [Zesty Market](https://zesty.market) - A marketplace for rentable NFT banner spaces in XR. As of Nov 9, 2021, has generated over $3K for WebXR developers since July 2021.
-
 ### Galleries
 
 - [3XR](https://www.3xr.space/) - A project by [microchipgnu](https://github.com/microchipgnu) that has integrated with Mintbase to create virtual galleries for NFT artwork on NEAR.
 - [glry.xyz](https://glry.xyz/) - A site that hosts virtual galleries for NFT art on the Tezos blockchain.
 - [oncyber](https://oncyber.io/) - Offers both free and collectible gallery spaces to display NFTs across multiple different chains.
 - [RareRooms](https://www.rarerooms.io/) - Allows you to create immersive NFT galleries with support for multiple different chains/marketplaces.
+
+### Monetization
+
+- [Zesty Market](https://zesty.market) - A marketplace for rentable NFT banner spaces in XR. As of Nov 9, 2021, has generated over $3K for WebXR developers since July 2021.
 
 ### Realms
 
