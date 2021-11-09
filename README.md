@@ -72,10 +72,11 @@
 
 ### Discord
 
-- [Metaverse Makers](https://discord.gg/UgZDFZW) - Official server for M3, the Metaverse Makers Mastermind group.
+- [Metaverse Makers Discord](https://discord.gg/UgZDFZW) - Official server for M3, the Metaverse Makers Mastermind group.
 - [WebXR Discord](https://discord.gg/Jt5tfaM) - Official Discord server for all things WebXR, with over 1000 members.
 - [Wonderland Engine Discord](https://discord.gg/FE8QnDP) - Wonderland Engine Discord server.
 - [XR Foundation Discord](https://discord.gg/Tb4MT4TTjH) - Official server for XR Foundation, responsible for XREngine and various other metaverse-related projects.
+- [Zesty Market Discord](https://discord.gg/7d7agTbmKf) - Official server for Zesty Market.
 
 ### Facebook
 
@@ -198,6 +199,10 @@
 ## Web3XR
 
 *Projects at the intersection of WebXR and crypto/blockchain technologies.*
+
+### Monetization
+
+- [Zesty Market](https://zesty.market) - A marketplace for rentable NFT banner spaces in XR. As of Nov 9, 2021, has generated over $3K for WebXR developers since July 2021.
 
 ### Galleries
 
