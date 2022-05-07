@@ -66,7 +66,7 @@
 
 *Resources for creating and utilizing 3D avatars in immersive experiences.*
 
-- [Exokit Avatars](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more.
+- [Exokit Avatars](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here](https://github.com/msub2/avatars).
 - [ReadyPlayerMe](https://readyplayer.me/) - Lets you quickly and easily create a 3D avatar online that you can download in glTF format.
 - [VRoid](https://vroid.com/en) - Lets you create anime-styled 3D avatars that export to the highly-compatible .vrm format.
 
