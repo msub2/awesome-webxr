@@ -16,7 +16,7 @@
   - [Facebook](#facebook)
   - [Forums](#forums)
   - [Reddit](#reddit)
-- [Companies](#companies)
+- [Companies and Cooperatives](#companies-and-cooperatives)
 - [Content Hubs](#content-hubs)
 - [Development](#development)
   - [Engines](#engines)
@@ -100,13 +100,14 @@
 - [r/WebVR](https://www.reddit.com/r/WebVR/) - Initially the main subreddit for WebVR discussion, now features general WebXR content along with [r/WebXR](https://www.reddit.com/r/WebXR/).
 - [r/WonderlandEngine](https://www.reddit.com/r/WonderlandEngine/) - Wonderland Engine subreddit.
 
-## Companies
+## Companies and cooperatives
 
-*Companies centered around/doing work in WebXR.*
+*Companies and cooperatives centered around/doing work in WebXR.*
 
 - [Active Replica](https://www.activereplica.com/) - Offers virtual event hosting through Mozilla Hubs.
 - [Active Theory](https://activetheory.net/) - Developed the Dreamwave platform.
 - [Aircards](https://www.aircards.co/) - WebAR advertising/marketing agency.
+- [Immers Space](https://web.immers.space/) - A Distributed Cooperative Organization (DisCO) focused on enabling open and federated immersive web content.
 - [Laguna Labs](https://lagunalabs.io/) - Immersive web tech agency.
 - [Playko Software](https://www.playko.com/) - VR/AR/WebXR agency and WebXR game development studio.
 - [REM5](https://www.rem5forgood.com/) - Digital immersive experience design studio specializing in education and social equity initiatives.
