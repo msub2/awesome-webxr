@@ -228,7 +228,7 @@
 *YouTube channels with a heavy focus on WebXR.*
 
 - [M3](https://www.youtube.com/channel/UCSNCMWhEojiVjUySdI7J_wg) - Official M3 channel.
+- [Sorskoot](https://youtube.com/sorskoot) - Tutorials and other WebXR related content.
 - [WebXR](https://www.youtube.com/c/WebXR) - Official WebXR channel.
 - [WebXR Summit Series](https://www.youtube.com/channel/UCM5HgDdpKgMejq5HX9EoGHg) - Contains clips, VODs, and other videos from the WebXR Summit Series.
 - [Wonderland Engine](https://www.youtube.com/channel/UCgaPCwqmAmre7mW0J7K8IkA) - Official Wonderland Engine channel.
-- [Sorskoot](https://youtube.com/sorskoot) - Tutorials and other WebXR related content.
