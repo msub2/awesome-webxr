@@ -47,7 +47,7 @@
 *Projects centered around artistic creations.*
 
 - [Brushwork VR](https://brushworkvr.com/) - A VR app that simulates the process of painting with a virtual canvas, palette, color mixing, and more.
-- [Hatsumi](https://hatsumi.netlify.app/) - A VR app that provides you with 3D drawing tools and a virtual body to illustrate lived experiences.
+- [SoulPaint](https://hatsumi.netlify.app/) - A VR app that provides you with 3D drawing tools and a virtual body to illustrate lived experiences.
 - [Obscura](https://obscura.world/) - Float around and explore a structure inspired by the architecture of Carlo Scarpa.
 - [Silk Brush](https://www.silkbrush.app/) - A port of Tilt Brush to WebXR with plans for future extensions.
 - [VARTISTE](https://vartiste.xyz/) - A VR app for 2D drawing and image editing, and 3D model texturing.
