@@ -149,7 +149,7 @@
 - [Wonderland Engine](https://wonderlandengine.com/) - A development platform designed specifically for building WebXR applications.
   - [Official Documentation](https://wonderlandengine.com/documentation/)
 
-- [XREngine](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
+- [Ethereal Engine](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
 
 ### Frameworks and Libraries
 
