@@ -133,6 +133,8 @@
 
 ### Engines
 
+- [Ethereal Engine](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
+
 - [Godot](https://godotengine.org/) - A cross-platform, open-source engine with WebXR support as of version 3.2.4.
   - [Official Documentation](https://docs.godotengine.org/en/stable/classes/class_webxrinterface.html)
 
@@ -148,8 +150,6 @@
 
 - [Wonderland Engine](https://wonderlandengine.com/) - A development platform designed specifically for building WebXR applications.
   - [Official Documentation](https://wonderlandengine.com/documentation/)
-
-- [Ethereal Engine](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
 
 ### Frameworks and Libraries
 
