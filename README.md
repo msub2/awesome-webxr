@@ -7,29 +7,31 @@
 [WebXR](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API) comprises a group of standards that allow browsers to access virtual and augmented reality devices, enabling developers to create immersive content that's easily accessible online without the need for installations or storefront curation.
 
 ## Contents
-- [Standout Projects](#standout-projects)
-- [Art](#art)
-- [Audio](#audio)
-- [Avatars](#avatars)
-- [Communities](#communities)
-  - [Discord](#discord)
-  - [Facebook](#facebook)
-  - [Forums](#forums)
-  - [Reddit](#reddit)
-- [Companies and Cooperatives](#companies-and-cooperatives)
-- [Content Hubs](#content-hubs)
-- [Development](#development)
-  - [Engines](#engines)
-  - [Frameworks and Libraries](#frameworks-and-libraries)
-  - [Other](#other)
-- [E-Commerce](#e-commerce)
-- [Learning Resources](#learning-resources)
-- [Social Spaces](#social-spaces)
-- [Web3XR](#web3xr)
-  - [Galleries](#galleries)
-  - [Monetization](#monetization)
-  - [Realms](#realms)
-- [YouTube](#youtube)
+- [Awesome WebXR ![Awesome](https://awesome.re)](#awesome-webxr-)
+  - [Contents](#contents)
+  - [Standout Projects](#standout-projects)
+  - [Art](#art)
+  - [Audio](#audio)
+  - [Avatars](#avatars)
+  - [Communities](#communities)
+    - [Discord](#discord)
+    - [Facebook](#facebook)
+    - [Forums](#forums)
+    - [Reddit](#reddit)
+  - [Companies and Cooperatives](#companies-and-cooperatives)
+  - [Content Hubs](#content-hubs)
+  - [Development](#development)
+    - [Engines](#engines)
+    - [Frameworks and Libraries](#frameworks-and-libraries)
+    - [Other](#other)
+  - [E-Commerce](#e-commerce)
+  - [Learning Resources](#learning-resources)
+  - [Social Spaces](#social-spaces)
+  - [Web3XR](#web3xr)
+    - [Galleries](#galleries)
+    - [Monetization](#monetization)
+    - [Realms](#realms)
+  - [YouTube](#youtube)
 
 ## Standout Projects
 
@@ -130,7 +132,7 @@
 
 ## Development
 
-*Some of the tools that make WebXR content possible. For a complete list, see the [WebXR Creation Tools list](./webxr-creation-tools.md).*
+*Some of the tools that make WebXR content possible. For a complete list, see the [WebXR Creation Tools list](./additional/webxr-creation-tools.md).*
 
 ### Engines
 
