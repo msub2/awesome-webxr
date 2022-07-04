@@ -131,7 +131,7 @@
 
 ## Development
 
-*Some of the tools that make WebXR content possible. For a complete list, see the [WebXR Creation Tools list](./additional/webxr-creation-tools.md).*
+*Some of the tools that make WebXR content possible. For a complete list, see the WebXR Creation Tools list in the additional folder.*
 
 ### Engines
 
