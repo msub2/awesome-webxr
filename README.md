@@ -149,7 +149,7 @@
 - [PlayCanvas](https://playcanvas.com/) - A browser-based WebGL engine with support for WebXR content, mobile browsers, collaborative editing, and more.
   - [Official Documentation](https://developer.playcanvas.com/en/)
 
-- [Rogue Engine](https://rogueengine.io/) - An HTML5 Game Engine based on Three.js
+- [Rogue Engine](https://rogueengine.io/) - An HTML5 Game Engine based on Three.js and TypeScript.
   - [Official Documentation](https://rogueengine.io/docs/manual/getting-started/installation/) 
   
 - [Unity](https://unity.com/) - A highly popular game engine with community packages that enable content to be exported for WebXR.
@@ -157,8 +157,8 @@
   - [SimpleWebXR](https://github.com/Rufus31415/Simple-WebXR-Unity) - Exporter by [Rufus31415](https://github.com/Rufus31415)
 
 - [Wonderland Engine](https://wonderlandengine.com/) - A development platform designed specifically for building WebXR applications.
-  - [Official Documentation](https://wonderlandengine.com/documentation/) 
-  
+  - [Official Documentation](https://wonderlandengine.com/documentation/)
+
 ### Frameworks and Libraries
 
 - [A-Frame](https://aframe.io/) - Lets you create VR experiences using declarative HTML and custom JavaScript components built on top of three.js.
