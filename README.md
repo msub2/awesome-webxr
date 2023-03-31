@@ -45,7 +45,6 @@
 - [Above Par-adowski WebXR Mini Golf](https://aboveparadowski.com/) - A WebXR minigolf game designed by Paradowski Creative, featuring 9 holes spread across a unique and varied environment.
 - [Yolopia](https://www.yolopia.com/) - A rhythm game which combines flow, boxing and pose matching.
 
-
 ## Art
 
 *Projects centered around artistic creations.*
