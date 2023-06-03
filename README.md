@@ -44,6 +44,7 @@
 - [Prehistoric Domain](https://www.prehistoricdomain.com/) - A Jurassic Park-esque experience in the browser, with multiple dinosaur exhibits available and more planned for the future.
 - [Above Par-adowski WebXR Mini Golf](https://aboveparadowski.com/) - A WebXR minigolf game designed by Paradowski Creative, featuring 9 holes spread across a unique and varied environment.
 - [Yolopia](https://www.yolopia.com/) - A rhythm game which combines flow, boxing and pose matching.
+- [f60](https://heyvr.io/game/f60) - A cross-platform WebXR escape room series set within a Soviet prison.
 
 ## Art
 
