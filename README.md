@@ -27,7 +27,6 @@
 - [Social Spaces](#social-spaces)
 - [Web3XR](#web3xr)
   - [Galleries](#galleries)
-  - [Monetization](#monetization)
   - [Realms](#realms)
 - [YouTube](#youtube)
 
@@ -189,6 +188,12 @@
 - [Learn A-Frame (VR)](https://www.codecademy.com/learn/learn-a-frame) - A roughly 6-hour Codecademy course written in partnership with A-Frame.
 - [babylon.js Guided Learning](https://doc.babylonjs.com/guidedLearning) - Detailed text and video tutorials that complement the other instructional pages in the documentation.
 
+## Monetization
+
+*Methods for monetizing WebXR content (outside of traditional web advertising platforms like Google Ads, as well as crypto, which falls under Web3XR).
+
+- [Zesty Market](https://www.zesty.market) - A marketplace for rentable banner spaces in XR. Offers integrations with most major WebXR creation tools.
+
 ## Social Spaces
 
 *Projects focused on creating social spaces for users to gather and/or collaborate in.*
@@ -208,10 +213,6 @@
 - [glry.xyz](https://glry.xyz/) - A site that hosts virtual galleries for NFT art on the Tezos blockchain.
 - [oncyber](https://oncyber.io/) - Offers both free and collectible gallery spaces to display NFTs across multiple different chains.
 - [RareRooms](https://www.rarerooms.io/) - Allows you to create immersive NFT galleries with support for multiple different chains/marketplaces.
-
-### Monetization
-
-- [Zesty Market](https://zesty.market) - A marketplace for rentable NFT banner spaces in XR. As of Nov 9, 2021, has generated over $3K for WebXR developers since July 2021.
 
 ### Realms
 
