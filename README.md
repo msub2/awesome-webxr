@@ -190,7 +190,7 @@
 
 ## Monetization
 
-*Methods for monetizing WebXR content (outside of traditional web advertising platforms like Google Ads, as well as crypto, which falls under Web3XR).
+*Methods for monetizing WebXR content (outside of traditional web advertising platforms like Google Ads, as well as crypto, which falls under Web3XR).*
 
 - [Zesty Market](https://www.zesty.market) - A marketplace for rentable banner spaces in XR. Offers integrations with most major WebXR creation tools.
 
