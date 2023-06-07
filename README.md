@@ -116,7 +116,6 @@
 - [Playko Software](https://www.playko.com/) - VR/AR/WebXR agency and WebXR game development studio.
 - [REM5](https://www.rem5forgood.com/) - Digital immersive experience design studio specializing in education and social equity initiatives.
 - [Sketchfab](https://sketchfab.com/) - 3D model marketplace that offers a VR previewer.
-- [Foveate](https://foveate.com/) - A design studio based in NYC that creates 3D, AR, and VR content on the web.
 - [Vhite Rabbit](https://vhiterabbit.com/) - Parent company behind Construct Arcade.
 
 ## Content Hubs
