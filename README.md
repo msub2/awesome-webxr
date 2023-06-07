@@ -24,6 +24,7 @@
   - [Frameworks and Libraries](#frameworks-and-libraries)
   - [Other](#other)
 - [Learning Resources](#learning-resources)
+- [Monetization](#monetization)
 - [Social Spaces](#social-spaces)
 - [Web3XR](#web3xr)
   - [Galleries](#galleries)
