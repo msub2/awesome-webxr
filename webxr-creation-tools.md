@@ -17,7 +17,6 @@ To qualify for this list, it must still be actively maintained and not formally 
 |[Hubs](https://hubs.mozilla.com/)|Cloud Platform|A-Frame|Geared towards conferencing and galleries|
 |[JanusWeb](https://github.com/jbaicoianu/janusweb)|Framework|[Elation Engine](https://github.com/jbaicoianu/elation-engine)|--|
 |[Immersions](https://github.com/bruchansky/immersions)|Library|babylon.js|--|
-|[LÖVR](https://lovr.org/)|Framework|WebGL|[Requires additional compilation step (see WebXR section)](https://lovr.org/docs/Compiling)
 |[model-viewer](https://modelviewer.dev/)|Library|WebGL|Limited interactivity|
 |[nunuStudio](https://www.nunustudio.org/)|Engine|three.js|Both web and native engine versions available|
 |[p5.xr](https://p5xr.org/#/)|Library|[p5.js](https://p5js.org/)|--|
