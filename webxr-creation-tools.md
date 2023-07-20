@@ -36,4 +36,5 @@ To qualify for this list, it must still be actively maintained and not formally 
 |[vtk.js](https://kitware.github.io/vtk-js/)|Library|WebGL|Focused on data visualization|
 |[Wonderland Engine](https://wonderlandengine.com/)|Engine|WebGL|--|
 |[WorldCore](https://github.com/croquet/worldcore)|Engine|three.js|--|
+|[X3DOM](https://x3dom.org/)|Framework|WebGL|Implements the X3D standard|
 |[Zea](https://www.zea.live/)|Engine|WebGL|CAD-focused|
