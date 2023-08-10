@@ -129,7 +129,7 @@
 
 ## Development
 
-*Some of the tools that make WebXR content possible. For a complete list, see the separate WebXR Creation Tools list.*
+*Some of the tools that make WebXR content possible. For a complete list, see the separate WebXR Creation Tools list. For a more in-depth list, see the [awesome-webxr-development](https://github.com/Pico-Developer/awesome-webxr-development) list.*
 
 ### Engines
 
