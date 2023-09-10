@@ -117,6 +117,7 @@
 - [REM5](https://www.rem5forgood.com/) - Digital immersive experience design studio specializing in education and social equity initiatives.
 - [Sketchfab](https://sketchfab.com/) - 3D model marketplace that offers a VR previewer.
 - [Vhite Rabbit](https://vhiterabbit.com/) - Parent company behind Construct Arcade.
+- [MetaVRse](https://metavrse.com/) - Web-based tool designed to make XR and 3D content creation. No-code/low-code template system, automatic embedding for business and education.
 
 ## Content Hubs
 
