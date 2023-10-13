@@ -16,6 +16,7 @@
   - [Discord](#discord)
   - [Facebook](#facebook)
   - [Forums](#forums)
+  - [LinkedIn](#linkedin)
   - [Reddit](#reddit)
 - [Companies and Cooperatives](#companies-and-cooperatives)
 - [Content Hubs](#content-hubs)
@@ -97,6 +98,10 @@
 - [three.js Forum](https://discourse.threejs.org/) - Official three.js forum.
 - [PlayCanvas Forum](https://forum.playcanvas.com/) - Official PlayCanvas forum.
 - [WebXR Community Forum](https://www.webxr.community/) - Official forum for all things WebXR. Sister community to the WebXR Discord.
+
+### LinkedIn
+
+- [WebXR](https://www.linkedin.com/groups/9019254/) - WebXR LinkedIn Group
 
 ### Reddit
 
