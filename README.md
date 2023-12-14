@@ -190,6 +190,8 @@
 - [X3DOM](https://x3dom.org) - A framework for integrating and manipulating X3D scenes as HTML5/DOM elements.
   - [Official Documentation](https://doc.x3dom.org/)
 
+- [JSAR-DOM](https://github.com/M-CreativeLab/jsar-dom) A TypeScript re-implementation of WHATWG DOM, CSSOM and WebXR for XR applications builtin on top of Babylon.js.
+
 ### Other
 
 - [Verge3D](https://www.soft8soft.com/verge3d/) - A toolkit that allows 3D artists to export their scenes and create immersive web experiences with ease.
