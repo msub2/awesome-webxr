@@ -180,6 +180,8 @@
 
 - [JanusWeb](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
 
+- [JSAR-DOM](https://github.com/M-CreativeLab/jsar-dom) A TypeScript re-implementation of WHATWG DOM, CSSOM and WebXR for XR applications built on top of Babylon.js.
+
 - [p5.xr](https://p5xr.org/) - An add-on for the library p5.js that allows you to create immersive p5 sketches.
 
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR](https://github.com/pmndrs/react-xr) as well.
@@ -191,8 +193,6 @@
 
 - [X3DOM](https://x3dom.org) - A framework for integrating and manipulating X3D scenes as HTML5/DOM elements.
   - [Official Documentation](https://doc.x3dom.org/)
-
-- [JSAR-DOM](https://github.com/M-CreativeLab/jsar-dom) A TypeScript re-implementation of WHATWG DOM, CSSOM and WebXR for XR applications builtin on top of Babylon.js.
 
 ### Other
 
