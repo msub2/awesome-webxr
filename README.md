@@ -154,6 +154,8 @@
 
 - [nunuStudio](https://www.nunustudio.org/) - A multiplatform, open-source engine built on three.js that can be used natively or in the browser.
   - [Official Documentation](https://www.nunustudio.org/docs/)
+ 
+- [Onirix Studio](https://www.onirix.com/) - A no-code editor for creating Web AR experiences in the browser. It emulates features of the WebXR if target device / browser is not compatible.
 
 - [PlayCanvas](https://playcanvas.com/) - A browser-based WebGL engine with support for WebXR content, mobile browsers, collaborative editing, and more.
   - [Official Documentation](https://developer.playcanvas.com/en/)
