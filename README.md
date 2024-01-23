@@ -198,6 +198,8 @@
 
 - [Verge3D](https://www.soft8soft.com/verge3d/) - A toolkit that allows 3D artists to export their scenes and create immersive web experiences with ease.
   - [Official Documentation](https://www.soft8soft.com/support-documentation/)
+- [XR Fragments](https://xrfragment.org) - A tiny specification for controlling any 3D model using URLs, based on existing metadata ⚡
+Promoting hyperlinked WebXR storytelling using all 3D editors AND viewers 💙
 
 ## Learning Resources
 
