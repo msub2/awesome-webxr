@@ -30,6 +30,7 @@
 - [Web3XR](#web3xr)
   - [Galleries](#galleries)
   - [Realms](#realms)
+- [Jobs](#jobs)
 - [YouTube](#youtube)
 
 ## Standout Projects
@@ -232,6 +233,12 @@
 - [Ozone Metaverse](https://ozonemetaverse.io/) - A spatial computing cloud platform offering world creation tools with Web3 integrations and monetization.
 - [Somnium Space Web](https://somniumspace.com/parcel/) - A web viewer that allows you to explore parcels from [Somnium Space](https://www.somniumspace.com/) in your browser, with VR support on the Oculus Quest browser.
 - [vrland](https://vrland.io/) - A platform for gathering and virtual showcases that supports displaying of NFTs.
+
+## Jobs
+
+*Job boards with AR/VR and WebXR positions.*
+
+- [AR VR Jobs](https://www.arvrjobs.dev) - A job board dedicated to augmented reality and virtual reality positions.
 
 ## YouTube
 
