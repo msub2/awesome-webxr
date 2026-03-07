@@ -192,8 +192,9 @@
 
 - [Verge3D](https://www.soft8soft.com/verge3d/) - A toolkit that allows 3D artists to export their scenes and create immersive web experiences with ease.
   - [Official Documentation](https://www.soft8soft.com/support-documentation/)
-- [XR Fragments](https://codeberg.org/coderofsalvation/xrfragment) - A tiny specification for controlling any 3D model using URLs, based on existing metadata. Promoting hyperlinked WebXR storytelling using all 3D editors and viewers.
-
+- [XR Fragments](https://xrfragment.org) - A tiny specification for controlling any 3D model using URLs, based on existing metadata. Promoting hyperlinked WebXR storytelling using all 3D editors and viewers. [[repo]](https://codeberg.org/coderofsalvation/xrfragment)
+- [XRSH](https://xrsh.isvery.ninja) - WebXR Virtual Machines (run linux iso inside WebXR) to enable live-scripting, packages and prototyping inside an in-VR shell. [[repo]](https://codeberg.org/xrsh/xrsh)
+ 
 ## Learning Resources
 
 *Courses and tutorials for creating WebXR content.*
