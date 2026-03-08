@@ -54,7 +54,6 @@
 *Projects centered around artistic creations.*
 
 - [Brushwork VR](https://brushworkvr.com/) - A VR app that simulates the process of painting with a virtual canvas, palette, color mixing, and more.
-- [SoulPaint](https://hatsumi.netlify.app/) - A VR app that provides you with 3D drawing tools and a virtual body to illustrate lived experiences.
 - [Silk Brush](https://www.silkbrush.app/) - A port of Tilt Brush to WebXR with plans for future extensions.
 - [VARTISTE](https://vartiste.xyz/) - A VR app for 2D drawing and image editing, and 3D model texturing.
 
@@ -70,7 +69,6 @@
 *Resources for creating and utilizing 3D avatars in immersive experiences.*
 
 - [Exokit Avatars](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here](https://github.com/msub2/avatars).
-- [ReadyPlayerMe](https://readyplayer.me/) - Lets you quickly and easily create a 3D avatar online that you can download in glTF format.
 - [VRoid](https://vroid.com/en) - Lets you create anime-styled 3D avatars that export to the highly-compatible .vrm format.
 
 ## Communities
@@ -114,13 +112,11 @@
 
 - [Active Theory](https://activetheory.net/) - Developed the Dreamwave platform.
 - [Aircards](https://www.aircards.co/) - WebAR advertising/marketing agency.
-- [Hatsumi](https://www.hatsumivr.com/) - A design studio developing experiences at the intersection of healthcare and art.
-- [Laguna Labs](https://lagunalabs.io/) - Immersive web tech agency.
 - [MetaVRse](https://metavrse.com/) - Enterprise-focused metaverse creation company. Parent company of MetaVRse Engine, MetaVRse Studio, and MetaVRse Properties such as TheMall.
 - [Playko Software](https://www.playko.com/) - VR/AR/WebXR agency and WebXR game development studio.
 - [REM5](https://www.rem5forgood.com/) - Digital immersive experience design studio specializing in education and social equity initiatives.
 - [Sketchfab](https://sketchfab.com/) - 3D model marketplace that offers a VR previewer.
-- [Vhite Rabbit](https://vhiterabbit.com/) - Parent company behind Construct Arcade.
+- [Vhite Rabbit](https://vhiterabbit.com/) - WebXR development studio behind games such as Archery Evolution and Boulderworld.
 
 ## Content Hubs
 
@@ -136,13 +132,8 @@
 
 ### Engines
 
-- [iR Engine](https://github.com/ir-engine/ir-engine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
-
 - [Godot](https://godotengine.org/) - A cross-platform, open-source engine with WebXR support as of version 3.2.4.
   - [Official Documentation](https://docs.godotengine.org/en/stable/classes/class_webxrinterface.html)
-
-- [MetaVRse Engine](https://metavrse.com/engine) - Web-based tool designed to make XR and 3D content creation. No-code/low-code template system, automatic embedding for business and education.
-  - [Official Documentation](https://metavrse.com/api/index.html)
 
 - [Needle](https://needle.tools/) - An engine and exporter for Blender and Unity.
   - [Official Documentation](https://engine.needle.tools/docs/)
@@ -213,26 +204,21 @@
 *Projects focused on creating social spaces for users to gather and/or collaborate in.*
 
 - [Dreamwave](https://dreamwave.tech/) - A web-based platform for hosting scalable virtual events. Powered the virtual music festival Secret Sky 2021.
-- [Emerald City](https://hubculture.city/) - A virtual event space developed by Hub Culture.
 - [FRAME](https://framevr.io/) - A platform focused on enabling easy 3D collaborations in a virtual space.
 - [Hubs](https://hubsfoundation.org/) - A community-owned platform for enabling users to gather and collaborate virtually, initially created by Mozilla.
+- [w3dge](https://w3dge.io/) - A platform for gatherings and virtual showcases with AI integration.
 
 ## Web3XR
 
 *Projects at the intersection of WebXR and crypto/blockchain technologies.*
 
+### Engines
+
+- [Hyperfy](https://github.com/hyperfy-xyz/hyperfy) - An open-source framework for building interactive 3D virtual worlds with built-in support for physics, networking, and a component-based application system.
+
 ### Galleries
 
 - [glry.xyz](https://glry.xyz/) - A site that hosts virtual galleries for NFT art on the Tezos blockchain.
-- [oncyber](https://oncyber.io/) - Offers both free and collectible gallery spaces to display NFTs across multiple different chains.
-
-### Realms
-
-- [Voxels](https://www.voxels.com/) - A virtual world powered by Ethereum where players can buy land, build stores, display art, and more.
-- [Hyperfy](https://hyperfy.io/) - A platform hosting up to 10,000 customizable, cross-platform, and immersive virtual worlds. Built on three.js, powered by Ethereum.
-- [Ozone Metaverse](https://ozonemetaverse.io/) - A spatial computing cloud platform offering world creation tools with Web3 integrations and monetization.
-- [Somnium Space Web](https://somniumspace.com/parcel/) - A web viewer that allows you to explore parcels from [Somnium Space](https://www.somniumspace.com/) in your browser, with VR support on the Oculus Quest browser.
-- [vrland](https://vrland.io/) - A platform for gathering and virtual showcases that supports displaying of NFTs.
 
 ## YouTube
 
