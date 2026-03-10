@@ -185,6 +185,7 @@
 - [Verge3D](https://www.soft8soft.com/verge3d/) - A toolkit that allows 3D artists to export their scenes and create immersive web experiences with ease.
   - [Official Documentation](https://www.soft8soft.com/support-documentation/)
 - [XR Fragments](https://xrfragment.org) - A tiny specification for controlling any 3D model using URLs, based on existing metadata. Promoting hyperlinked WebXR storytelling using all 3D editors and viewers. [[repo]](https://codeberg.org/coderofsalvation/xrfragment)
+- [GeometryViewer](https://geometryviewer.com) - A free, zero-install browser-based 3D model viewer (STL, OBJ, GLTF, GLB, 3MF) with WebXR immersive-AR support on Android and Apple Quick Look on iOS. Share any model via a single link.
  
 ## Learning Resources
 
