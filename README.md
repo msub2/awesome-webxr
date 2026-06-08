@@ -220,6 +220,7 @@
 ### Galleries
 
 - [glry.xyz](https://glry.xyz/) - A site that hosts virtual galleries for NFT art on the Tezos blockchain.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for spatial/WebXR AI agents on Solana. Verify agent wallet identity before x402 paid 3D asset API calls or AR content access. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## YouTube
 
