@@ -77,11 +77,11 @@
 
 ### Discord
 
+- [Borellion Discord](https://discord.gg/4JzX9ZTRQk) - Official server for Borellion.
 - [Metaverse Makers Discord](https://discord.gg/UgZDFZW) - Official server for M3, the Metaverse Makers Mastermind group.
 - [WebXR Discord](https://discord.gg/Jt5tfaM) - Official Discord server for all things WebXR, with over 1000 members.
 - [WebXR Francophone Discord](https://discord.gg/JGsaYQJeuM) - French-speaking Discord server for WebXR.
 - [Wonderland Engine Discord](https://discord.gg/FE8QnDP) - Wonderland Engine Discord server.
-- [Zesty Market Discord](https://discord.gg/7d7agTbmKf) - Official server for Zesty Market.
 
 ### Facebook
 
