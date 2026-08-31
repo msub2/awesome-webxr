@@ -187,6 +187,7 @@
 - [Verge3D](https://www.soft8soft.com/verge3d/) - A toolkit that allows 3D artists to export their scenes and create immersive web experiences with ease.
   - [Official Documentation](https://www.soft8soft.com/support-documentation/)
 - [XR Fragments](https://xrfragment.org) - A tiny specification for controlling any 3D model using URLs, based on existing metadata. Promoting hyperlinked WebXR storytelling using all 3D editors and viewers. [[repo]](https://codeberg.org/coderofsalvation/xrfragment)
+- [ZeroXR Model Explorer](https://0xr.space/) - A browser-based GLB/glTF inspector with real-world scale, section planes, wireframe and UV views, and an assembly tree, running on Quest, Android XR and visionOS with no install.
  
 ## Learning Resources
 
