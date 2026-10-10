@@ -70,6 +70,7 @@
 
 - [Exokit Avatars](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here](https://github.com/msub2/avatars).
 - [VRoid](https://vroid.com/en) - Lets you create anime-styled 3D avatars that export to the highly-compatible .vrm format.
+- [three.ws](https://github.com/nirholas/three.ws) - Open-source platform for animated 3D AI agents. Its `<agent-3d>` web component embeds rigged GLB and VRM avatars on any page, with an LLM brain, memory, and a remote MCP server.
 
 ## Communities
 
