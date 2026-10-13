@@ -146,7 +146,7 @@
   - [Official Documentation](https://developer.playcanvas.com/en/)
 
 - [Rogue Engine](https://rogueengine.io/) - An HTML5 Game Engine based on Three.js and TypeScript.
-  - [Official Documentation](https://rogueengine.io/docs/manual/getting-started/installation/) 
+  - [Official Documentation](https://rogueengine.io/) 
   
 - [Unity](https://unity.com/) - A highly popular game engine with community packages that enable content to be exported for WebXR.
   - [WebXR Export](https://github.com/De-Panther/unity-webxr-export) - Exporter by [De-Panther](https://github.com/De-Panther/)
