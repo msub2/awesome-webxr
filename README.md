@@ -48,6 +48,8 @@
 - [The Escape Artist](https://esc.art/) - An award-winning escape room game by Paradowski Creative set inside the mind of an artist, with an overarching narrative about the creative process.
 - [NeoFables](https://neofables.com/) - A dynamically-generated VR storytelling experience utilizing GenAI. Nominated for "Game of the Year" and "Experience of the Year" at the 2024 Polys Immersive Awards and is the first GenAI VR experience featured by Meta.
 - [XRSH](https://xrsh.isvery.ninja) - Linux virtual machines running inside WebXR to enable live-scripting, packages and prototyping inside an in-VR shell. [[repo]](https://codeberg.org/xrsh/xrsh)
+- [Meows Freaky Fishstick Factory](https://www.nxtwebxr.com/fishstickfactory/) - A mixed reality rage game by Morten Haulik: you are a cat on a fish stick conveyor belt, swatting the weird fish sticks before your boss sees.
+- [die Hände](https://www.nxtwebxr.com/diehaende/) - A mixed reality experience by NXT/WebXR played with your bare hands: a dead hand under glass copies yours, until it wants to play you.
 
 ## Art
 
@@ -125,6 +127,7 @@
 
 - [dmnshd.gg](https://dmnshd.gg) - A platform for discovering and playing WebXR games.
 - [heyVR](https://heyvr.io/) - A curated platform for publishing WebXR games.
+- [NXT/WebXR](https://www.nxtwebxr.com/) - A free catalogue of WebXR games and experiences for Meta Quest and Pico, browsed as a feed of 3D trailers in your own room, in English and Japanese.
 - [PICO Browser Start Page](https://browser-us.picovr.com/) - The default start page for PICO Browser.
 - [Wolvic Start Page](https://wolvic.com/en/start/) - The default start page for the Wolvic browser.
 
