@@ -27,6 +27,7 @@
 - [Learning Resources](#learning-resources)
 - [Monetization](#monetization)
 - [Social Spaces](#social-spaces)
+- [Video](#video)
 - [Web3XR](#web3xr)
   - [Galleries](#galleries)
   - [Realms](#realms)
@@ -209,6 +210,12 @@
 - [FRAME](https://framevr.io/) - A platform focused on enabling easy 3D collaborations in a virtual space.
 - [Hubs](https://hubsfoundation.org/) - A community-owned platform for enabling users to gather and collaborate virtually, initially created by Mozilla.
 - [w3dge](https://w3dge.io/) - A platform for gatherings and virtual showcases with AI integration.
+
+## Video
+
+*Projects centered around watching video in WebXR.*
+
+- [Wandless VR Video Player](https://github.com/cnghockey/wandless-vr-video-player) - A free, open-source player for VR180 and flat video that runs in the Meta Quest Browser and is controlled by hand tracking alone. A Windows PC streams the files, or one saved page plays them offline.
 
 ## Web3XR
 
