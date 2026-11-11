@@ -215,7 +215,7 @@
 
 *Projects centered around watching video in WebXR.*
 
-- [Wandless VR Video Player](https://github.com/cnghockey/wandless-vr-video-player) - A free, open-source player for VR180 and flat video that runs in the Meta Quest Browser and is controlled by hand tracking alone. A Windows PC streams the files, or one saved page plays them offline.
+- [Wandless VR Video Player](https://cnghockey.github.io/wandless-vr-video-player/) - A free, open-source player for VR180 and flat video, controlled by hand tracking alone. Open it in the Meta Quest Browser and pick a video stored on the headset. A Windows PC can also stream a video library to it. [[repo]](https://github.com/cnghockey/wandless-vr-video-player)
 
 ## Web3XR
 
