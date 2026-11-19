@@ -48,6 +48,7 @@
 - [The Escape Artist](https://esc.art/) - An award-winning escape room game by Paradowski Creative set inside the mind of an artist, with an overarching narrative about the creative process.
 - [NeoFables](https://neofables.com/) - A dynamically-generated VR storytelling experience utilizing GenAI. Nominated for "Game of the Year" and "Experience of the Year" at the 2024 Polys Immersive Awards and is the first GenAI VR experience featured by Meta.
 - [XRSH](https://xrsh.isvery.ninja) - Linux virtual machines running inside WebXR to enable live-scripting, packages and prototyping inside an in-VR shell. [[repo]](https://codeberg.org/xrsh/xrsh)
+- [Hivetongue VR](https://hivetongue.com/vr) - Raw WebGL2 + WebXR galaxy of live AI-agent conversations, with a forearm organizer UI and hand-poke interaction. [[repo]](https://github.com/hivetongue/hivetongue)
 
 ## Art
 
