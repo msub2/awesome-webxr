@@ -125,6 +125,7 @@
 
 - [dmnshd.gg](https://dmnshd.gg) - A platform for discovering and playing WebXR games.
 - [heyVR](https://heyvr.io/) - A curated platform for publishing WebXR games.
+- [NXT/WebXR](https://www.nxtwebxr.com/) - A free catalogue of WebXR games for Meta Quest, PICO and other headsets, with a swipeable trailer feed and new games every Friday.
 - [PICO Browser Start Page](https://browser-us.picovr.com/) - The default start page for PICO Browser.
 - [Wolvic Start Page](https://wolvic.com/en/start/) - The default start page for the Wolvic browser.
 
